@@ -1,0 +1,25 @@
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\project practise 2.exe
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\project practise 2.deps.json
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\project practise 2.runtimeconfig.json
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\project practise 2.dll
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\project practise 2.pdb
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.csproj.AssemblyReference.cache
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project_practise_2.Form1.resources
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.csproj.GenerateResource.cache
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.AssemblyInfoInputs.cache
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.AssemblyInfo.cs
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.csproj.CoreCompileInputs.cache
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.dll
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\refint\project practise 2.dll
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.pdb
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.genruntimeconfig.cache
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\ref\project practise 2.dll
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project practise 2\project practise 2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project practise 2.csproj.CopyComplete
+D:\project practise 2\project practise 2\obj\Debug\net6.0-windows\project_practise_2.Properties.Resources.resources
