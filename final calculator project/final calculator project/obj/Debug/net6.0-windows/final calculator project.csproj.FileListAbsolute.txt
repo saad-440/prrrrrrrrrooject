@@ -1,0 +1,28 @@
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\final calculator project.exe
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\final calculator project.deps.json
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\final calculator project.runtimeconfig.json
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\final calculator project.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\final calculator project.pdb
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\System.Management.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final calculator project\final calculator project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.csproj.AssemblyReference.cache
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final_calculator_project.Form1.resources
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final_calculator_project.Properties.Resources.resources
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.csproj.GenerateResource.cache
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.GeneratedMSBuildEditorConfig.editorconfig
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.AssemblyInfoInputs.cache
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.AssemblyInfo.cs
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.csproj.CoreCompileInputs.cache
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.csproj.CopyComplete
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.dll
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\refint\final calculator project.dll
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.pdb
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\final calculator project.genruntimeconfig.cache
+D:\final calculator project\final calculator project\obj\Debug\net6.0-windows\ref\final calculator project.dll
