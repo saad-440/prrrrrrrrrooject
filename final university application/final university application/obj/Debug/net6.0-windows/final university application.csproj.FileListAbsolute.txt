@@ -1,0 +1,31 @@
+D:\final university application\final university application\bin\Debug\net6.0-windows\final university application.exe
+D:\final university application\final university application\bin\Debug\net6.0-windows\final university application.deps.json
+D:\final university application\final university application\bin\Debug\net6.0-windows\final university application.runtimeconfig.json
+D:\final university application\final university application\bin\Debug\net6.0-windows\final university application.dll
+D:\final university application\final university application\bin\Debug\net6.0-windows\final university application.pdb
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.csproj.AssemblyReference.cache
+D:\final university application\final university application\obj\Debug\net6.0-windows\final_university_application.Form1.resources
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.csproj.GenerateResource.cache
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.GeneratedMSBuildEditorConfig.editorconfig
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.AssemblyInfoInputs.cache
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.AssemblyInfo.cs
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.csproj.CoreCompileInputs.cache
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.dll
+D:\final university application\final university application\obj\Debug\net6.0-windows\refint\final university application.dll
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.pdb
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.genruntimeconfig.cache
+D:\final university application\final university application\obj\Debug\net6.0-windows\ref\final university application.dll
+D:\final university application\final university application\obj\Debug\net6.0-windows\final_university_application.Properties.Resources.resources
+D:\final university application\final university application\obj\Debug\net6.0-windows\final_university_application.dashboardform.resources
+D:\final university application\final university application\obj\Debug\net6.0-windows\final_university_application.applicationform.resources
+D:\final university application\final university application\obj\Debug\net6.0-windows\final_university_application.studendsform.resources
+D:\final university application\final university application\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\final university application\final university application\bin\Debug\net6.0-windows\System.Management.dll
+D:\final university application\final university application\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\final university application\final university application\obj\Debug\net6.0-windows\final university application.csproj.CopyComplete
+D:\final university application\final university application\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\final university application\final university application\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\final university application\final university application\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\final university application\final university application\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\final university application\final university application\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\final university application\final university application\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
